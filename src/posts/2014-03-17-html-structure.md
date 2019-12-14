@@ -45,7 +45,7 @@ So if we put them alltogether in one image, the site would look something like t
 
 ![][image-5]
 
-But, if you look closely at the structure, you'll also realize that that is a wrapper that contains the left and right blocks, and this wrapper repeats.
+But, if you look closely at the structure, you'll also realize that there is a wrapper that contains the left and right blocks, and this wrapper repeats.
 
 ![html structure wraps][image-6]
 
